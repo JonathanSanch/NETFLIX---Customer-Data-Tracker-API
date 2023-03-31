@@ -15,5 +15,10 @@ Specifically, the following:
 
 ---
 
-Running the Project: 
+### Project Details: 
+
+- Project is run through IntelliJ through Apache Tomcat.
+- DBeaver and a local database is being used.
+- Insomnia or localhost is needed in order to do GET, POST, UPDATE, and DELETE HTTP requests.
+
 
